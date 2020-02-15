@@ -7,6 +7,11 @@ RabbitMQGuide
 
     * <a href="https://blog.csdn.net/weixin_44146379/article/details/103742720">腾讯云服务器安装RabbitMQ</a>
     
+* 推荐文章链接
+   
+    * <a href="https://github.com/doocs/advanced-java">高并发架构：消息队列</a>
+   
+    
 目录
 ====
 
