@@ -23,7 +23,7 @@ RabbitMQGuide
 * idea编译器
 
 知识点扫盲
-====
+------
 
 * <a href="https://github.com/DemoTransfer/RabbitMQGuide/blob/master/document/basic/what-mq.md">什么是消息队列</a>
 
