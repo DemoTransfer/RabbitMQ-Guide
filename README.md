@@ -41,6 +41,11 @@ RabbitMQGuide
 
 * <a href="https://github.com/DemoTransfer/RabbitMQGuide/blob/master/document/basic/mq-design.md">如果让你写一个消息队列，该如何进行架构设计啊？说一下你的思路。</a>
 
+设计思考
+------
+
+* 如何保证消费者消息消息幂等？
+
 示例代码
 ------
 
