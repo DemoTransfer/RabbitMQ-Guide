@@ -30,6 +30,9 @@ RabbitMQGuide
 * <a href="https://github.com/DemoTransfer/RabbitMQGuide/blob/master/document/basic/mq-time-delay-and-expired-failure.md">如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？</a>
 * <a href="https://github.com/DemoTransfer/RabbitMQGuide/blob/master/document/basic/mq-design.md">如果让你写一个消息队列，该如何进行架构设计啊？说一下你的思路。</a>
 
+* 事务消息
+   * <a href="">还不知道事务消息吗？这篇文章带你全面扫盲！</a>
+
 示例代码
 ------
 
